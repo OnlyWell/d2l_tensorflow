@@ -1,0 +1,142 @@
+[
+  {
+    "key": "voice_1",
+    "source": "D:\\develop\\AI\\AI-Voice\\语音识别微调\\微调原始内容\\voice_transformer\\voice_1.wav",
+    "source_len": 661,
+    "target": "",
+    "target_len": 0
+  },
+  {
+    "key": "voice_10",
+    "source": "D:\\develop\\AI\\AI-Voice\\语音识别微调\\微调原始内容\\voice_transformer\\voice_10.wav",
+    "source_len": 918,
+    "target": "",
+    "target_len": 0
+  },
+  {
+    "key": "voice_11",
+    "source": "D:\\develop\\AI\\AI-Voice\\语音识别微调\\微调原始内容\\voice_transformer\\voice_11.wav",
+    "source_len": 1012,
+    "target": "",
+    "target_len": 0
+  },
+  {
+    "key": "voice_12",
+    "source": "D:\\develop\\AI\\AI-Voice\\语音识别微调\\微调原始内容\\voice_transformer\\voice_12.wav",
+    "source_len": 822,
+    "target": "",
+    "target_len": 0
+  },
+  {
+    "key": "voice_13",
+    "source": "D:\\develop\\AI\\AI-Voice\\语音识别微调\\微调原始内容\\voice_transformer\\voice_13.wav",
+    "source_len": 969,
+    "target": "",
+    "target_len": 0
+  },
+  {
+    "key": "voice_14",
+    "source": "D:\\develop\\AI\\AI-Voice\\语音识别微调\\微调原始内容\\voice_transformer\\voice_14.wav",
+    "source_len": 736,
+    "target": "",
+    "target_len": 0
+  },
+  {
+    "key": "voice_15",
+    "source": "D:\\develop\\AI\\AI-Voice\\语音识别微调\\微调原始内容\\voice_transformer\\voice_15.wav",
+    "source_len": 788,
+    "target": "",
+    "target_len": 0
+  },
+  {
+    "key": "voice_16",
+    "source": "D:\\develop\\AI\\AI-Voice\\语音识别微调\\微调原始内容\\voice_transformer\\voice_16.wav",
+    "source_len": 849,
+    "target": "",
+    "target_len": 0
+  },
+  {
+    "key": "voice_17",
+    "source": "D:\\develop\\AI\\AI-Voice\\语音识别微调\\微调原始内容\\voice_transformer\\voice_17.wav",
+    "source_len": 961,
+    "target": "",
+    "target_len": 0
+  },
+  {
+    "key": "voice_18",
+    "source": "D:\\develop\\AI\\AI-Voice\\语音识别微调\\微调原始内容\\voice_transformer\\voice_18.wav",
+    "source_len": 938,
+    "target": "",
+    "target_len": 0
+  },
+  {
+    "key": "voice_19",
+    "source": "D:\\develop\\AI\\AI-Voice\\语音识别微调\\微调原始内容\\voice_transformer\\voice_19.wav",
+    "source_len": 894,
+    "target": "",
+    "target_len": 0
+  },
+  {
+    "key": "voice_2",
+    "source": "D:\\develop\\AI\\AI-Voice\\语音识别微调\\微调原始内容\\voice_transformer\\voice_2.wav",
+    "source_len": 1044,
+    "target": "",
+    "target_len": 0
+  },
+  {
+    "key": "voice_20",
+    "source": "D:\\develop\\AI\\AI-Voice\\语音识别微调\\微调原始内容\\voice_transformer\\voice_20.wav",
+    "source_len": 930,
+    "target": "",
+    "target_len": 0
+  },
+  {
+    "key": "voice_3",
+    "source": "D:\\develop\\AI\\AI-Voice\\语音识别微调\\微调原始内容\\voice_transformer\\voice_3.wav",
+    "source_len": 869,
+    "target": "",
+    "target_len": 0
+  },
+  {
+    "key": "voice_4",
+    "source": "D:\\develop\\AI\\AI-Voice\\语音识别微调\\微调原始内容\\voice_transformer\\voice_4.wav",
+    "source_len": 959,
+    "target": "",
+    "target_len": 0
+  },
+  {
+    "key": "voice_5",
+    "source": "D:\\develop\\AI\\AI-Voice\\语音识别微调\\微调原始内容\\voice_transformer\\voice_5.wav",
+    "source_len": 1080,
+    "target": "",
+    "target_len": 0
+  },
+  {
+    "key": "voice_6",
+    "source": "D:\\develop\\AI\\AI-Voice\\语音识别微调\\微调原始内容\\voice_transformer\\voice_6.wav",
+    "source_len": 1029,
+    "target": "",
+    "target_len": 0
+  },
+  {
+    "key": "voice_7",
+    "source": "D:\\develop\\AI\\AI-Voice\\语音识别微调\\微调原始内容\\voice_transformer\\voice_7.wav",
+    "source_len": 935,
+    "target": "",
+    "target_len": 0
+  },
+  {
+    "key": "voice_8",
+    "source": "D:\\develop\\AI\\AI-Voice\\语音识别微调\\微调原始内容\\voice_transformer\\voice_8.wav",
+    "source_len": 902,
+    "target": "",
+    "target_len": 0
+  },
+  {
+    "key": "voice_9",
+    "source": "D:\\develop\\AI\\AI-Voice\\语音识别微调\\微调原始内容\\voice_transformer\\voice_9.wav",
+    "source_len": 761,
+    "target": "",
+    "target_len": 0
+  }
+]
